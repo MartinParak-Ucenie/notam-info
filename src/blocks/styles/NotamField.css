@@ -1,0 +1,11 @@
+.notamField {
+    color: wheat;
+    font-family: "DejaVu Sans Mono";
+    font-size: 4rem;
+    display: inline-block;
+}
+
+.notamField:hover {
+    color: darkorange;
+    cursor: pointer;
+}

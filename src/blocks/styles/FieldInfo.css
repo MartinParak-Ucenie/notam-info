@@ -1,0 +1,14 @@
+.field-info {
+    color: wheat;
+    font-family: "DejaVu Sans Mono";
+    font-size: 3rem;
+    /*display: inline-block;*/
+    width: fit-content;
+    text-align: center;
+
+}
+
+.field-info:hover {
+    color: darkorange;
+    cursor: pointer;
+}
